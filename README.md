@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there 👋
 
-<!--
-**2Joel1/2Joel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Joel, currently doing an apprenticeship as an Application Developer in Germany.
 
-Here are some ideas to get you started:
+I enjoy building small software solutions for myself and my friends, turning ideas into practical tools.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main focus right now is C# and .NET development, but I also have basic experience with C++ and PHP.  
+Over time, you'll find more and more of my projects in my public repositories as I continue to grow and improve.
+
+
+## Fun Facts
+
+- I got into IT because I played too many video games 🎮  
+- I need cocoa to concentrate properly ☕  
+- Hobbies: Video games, anime, and building things
