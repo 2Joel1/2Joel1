@@ -11,5 +11,5 @@ Over time, you'll find more and more of my projects in my public repositories as
 ## Fun Facts
 
 - I got into IT because I played too many video games 🎮  
-- I need cocoa to concentrate properly ☕  
+- I need cocoa or tea to concentrate properly ☕  
 - **Hobbies:** Video games, anime, and building things
